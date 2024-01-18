@@ -55,6 +55,27 @@ export const data = [
             'To control the background color'
         ],
         answer: 'To control the order of overlapping elements'
-    }
+    }, 
+    
+    {
+    question: 'Which of the following version control systems is distributed?',
+    choices: [
+        'Git',
+        'SVN',
+        'Mercurial',
+        'Perforce'
+    ],
+    answer: 'Git'
+},
 
+{
+    question: 'What is the purpose of the HTML "alt" attribute in an image tag?',
+    choices: [
+        'To specify the image source',
+        'To provide alternative text for screen readers',
+        'To control the image size',
+        'To set the image border'
+    ],
+    answer: 'To provide alternative text for screen readers'
+   }
 ]
